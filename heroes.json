@@ -1,12 +1,6 @@
 {
   "heroes": [
     {
-      "id": "991d5047-6b37-4258-ae27-c24b8b097306",
-      "name": "dfdf",
-      "description": "dfdf",
-      "element": "earth"
-    },
-    {
       "id": "d80e8cad-7e54-4fb0-96d5-d00f29b891a6",
       "name": "defdf",
       "description": "dfdfdf",
@@ -23,6 +17,12 @@
       "name": "Анастасія",
       "description": "gfh",
       "element": "fire"
+    },
+    {
+      "id": "f5161f2d-1142-4f47-a531-f31f2dfceb9a",
+      "name": "ddfdf",
+      "description": "fgfgf",
+      "element": "wind"
     }
   ],
   "filters": [
